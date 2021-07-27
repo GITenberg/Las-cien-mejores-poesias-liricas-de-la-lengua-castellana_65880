@@ -1,5 +1,5 @@
 _repo: Las-cien-mejores-poesias-liricas-de-la-lengua-castellana_65880
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   compiler:
     agent_name: Menéndez y Pelayo, Marcelino
@@ -13,7 +13,12 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/Marcelino_Men%C3%A9ndez_y_Pelayo
     - https://es.wikipedia.org/wiki/Marcelino_Men%C3%A9ndez_Pelayo
+covers:
+- cover_type: archival
+  image_path: 65880-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65880#Las-cien-mejores-poesias-liricas-de-la-lengua-castellana
 gutenberg_issued: '2021-07-20'
 gutenberg_type: Text
 identifiers:
